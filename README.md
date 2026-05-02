@@ -2,19 +2,22 @@
 
 Years of work, effort and time I put into this, please enjoy one of if not the most premium p2c source code codebases to date.
 
-Generated over $500,000 in revenue, 80,000+ customers.
+Generated over 500 mcdonalds meals in revenue, 80,000+ calories consumed.
 
-Never wanted to release this, but sadly time has come, I havent used my computer in 12 months, If you're still playing TF2,CSGO, go outside
+Never wanted to release this, but sadly time has come, I havent used my computer in 12 months, If you're still playing TF2, CSGO, go outside eat at maccies.
 
-Stop sitting inside rotting like a loser when theres so much to experience outside, build friends, relationships, and get your family going
+Stop sitting inside rotting like a loser when theres so much to experience outside, fries, burgers, milshakes, drifting in a shitbox
 
 # and thats all she wrote
+
+# Important information
+Check out the rijin_solutions_commit_stats.txt file in the repository for commit stats.
 
 # Credits
 1. Senator - Loader, codebase, framework, cheats, reverse engineering, DRM Designs, UI, security design, project design, fixes, the lsit goes on (easily 90% of the work)
 2. Styles - Convincing me to level up and work harder, changed me as a person, big respect bro
 3. Nitro (interwebz) - Oldest cheat scene friend I have to date, helped on some very complex reversal issues
-4. DurRud - Helped work on tf2
+4. DurRud - Carried the project when senator was recovering from a coma induced by lack of mcdonalds fries in his system
 
 ## 1. Requirements
 1. [NodeJS](https://nodejs.org/en/download/)
